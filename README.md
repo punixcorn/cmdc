@@ -3,6 +3,8 @@
 written in bash script, the main idea is to write it in c lolz, for now enjoy bash
 <br/>
 give the `c` file executable rights and run it, done!
+<br/>
+put `custom.h` in `/usr/include/`
 
 ### idea?
 
