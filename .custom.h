@@ -20,7 +20,6 @@
 #include <unistd.h>
 #include <unistdio.h>
 #include <fcntl.h>
-#include <sys/syscall.h>
-#include <sys/stat.h>
+#include <sys/all_syscalls.h>
 #include <errno.h>
 #endif  // CUSTOM_H_
